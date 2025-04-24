@@ -22,6 +22,8 @@ We’re using Miro to brainstorm, track ideas, and collaborate visually. Jump in
 We’re using Miro to brainstorm, track ideas, and collaborate visually. Jump into the board and start contributing!
 👉 [Join us on Discord!](https://discord.com/invite/KrZdwUDrSu)
 
+### 5. 🧭 Put documents in the google drive!
+👉 [Hackathon Google Drive!](https://drive.google.com/drive/folders/17oNMStJXw5N4i4_sUAFAyMnhgelBGGBN?usp=sharing)
 ---
 
 ---
