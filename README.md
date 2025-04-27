@@ -54,5 +54,21 @@ The goal is to create a *Data Analyst Assistant* that allows users to:
 
 ---
 
-Let’s build something powerful, beautiful, and useful — together. 💪
+## 📚 Generated Documentation
 
+The following documentation has been generated to guide the development of the Data Analyst / Query Bot prototype:
+
+-   **Design Documents (`/docs`)**:
+    -   `product_requirements.md`: Outlines the product vision, target users, and functional requirements.
+    -   `user_interface_description.md`: Describes the planned user interface and interaction patterns.
+    -   `architecture_guide.md`: Details the technical architecture for the prototype.
+    -   `database_design.md`: Specifies the database schema using SQLModel and Prisma.
+    -   `api_design_specification.md`: Defines the backend API endpoints and structure using FastAPI.
+    -   `Plan.md`: Provides a phased implementation plan with tasks and difficulty estimates.
+
+-   **Technical Documentation (`/docs-tech`)**:
+    -   Contains technical snippets and information relevant to the technologies used, including details about the PostgreSQL and SQLite MCP servers which can be used for natural language to SQL translation.
+
+---
+
+Let’s build something powerful, beautiful, and useful — together. 💪
